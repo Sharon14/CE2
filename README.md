@@ -1,4 +1,4 @@
-**/Original CE1 code without edits/**
+//Original CE1 code without edits
 package practice;
 	import java.io.BufferedWriter;
 	import java.io.File;
